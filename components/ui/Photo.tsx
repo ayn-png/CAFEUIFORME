@@ -6,9 +6,9 @@ const toneBg: Record<Tone, string> = {
   espresso: "bg-[#3a281e] text-[#d9cbb4]",
   charcoal: "bg-[#34312e] text-[#cfc5b6]",
   beige: "bg-[#cdbb9f] text-[#3d2b21]",
-  matcha: "bg-[#8a9670] text-[#f4efe6]",
-  terracotta: "bg-[#a9644a] text-[#f4efe6]",
-  paper: "bg-[#e2d7c4] text-[#3d2b21]",
+  matcha: "bg-[#8a9670] text-[#e9dcc8]",
+  terracotta: "bg-[#a9644a] text-[#e9dcc8]",
+  paper: "bg-[#d8c6aa] text-[#3d2b21]",
 };
 
 type Props = {
